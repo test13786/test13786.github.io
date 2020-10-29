@@ -1,1 +1,8 @@
-Hello!
+<?php
+
+$name = "Test";
+
+echo $name;
+
+
+?>
